@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xacademy Clase 1 maquetacion</title>
+    <style>
+    </style>
+</head>
+<body>
+    <div id="header" style="border-bottom: 1px solid gray; display: flex; padding: 10px 100px; justify-content: space-between">
+        <div id="header-left">
+            <img src="logo.svg">
+        </div>
+        <div id="header-right" style="display: flex; align-items: center;">
+            <p>Nosotros</p>
+            <p>Programas</p>
+            <p>Capaciontaciones</p>
+            <p>Alianzas</p>
+            <p>Contacto</p>
+            <button class="redondo">Sumate +</button>
+            <i class=""></i>
+        </div>
+    </div>
+    <div id="introduction" style="padding: 48px;">
+        <div id="introduction-text">
+            <h1>Somos una Fundación dedicada a mejorar la calidad de vida de las personas y su entorno, a través de la tecnología.</h1>
+        </div>
+        <div id="introduction-actions" style="margin-top: 25px;">
+            <button class="redondo">Contactanos -></button>
+            <button class="redondo" style="margin-left: 14px;">Sumate +</button>
+        </div>
+    </div>
+</body>
+</html>
